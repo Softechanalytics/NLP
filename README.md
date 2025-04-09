@@ -108,6 +108,13 @@ Edit
 - Hands-on experience with CountVectorizer & TF-IDF
 - Evaluating and comparing machine learning classifiers
 - Real-world application of sentiment analysis in aviation
+---
+
+## 📚 Additional Resources
+
+![python Code](
+
+![Dataset](
 
 ---
 

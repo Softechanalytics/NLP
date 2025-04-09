@@ -21,6 +21,7 @@ The dataset was sourced from Kaggle and contains tweets from **February 2015** a
   - `text`: The tweet content.
   - `airline_sentiment`: Sentiment label (positive, neutral, negative).
 
+![click to view code](https://github.com/Softechanalytics/NLP/blob/main/Twitter_US_Airline_Sentiment_Analysis_Project(Anyakwu_Chukwuemeka_Isaac).ipynb)
 ---
 
 ## 🧠 Project Workflow
@@ -114,7 +115,7 @@ Edit
 
 ![python Code](https://github.com/Softechanalytics/NLP/blob/main/Twitter_US_Airline_Sentiment_Analysis_Project(Anyakwu_Chukwuemeka_Isaac).ipynb)
 
-![Dataset](
+![Dataset](https://github.com/Softechanalytics/NLP/blob/main/Tweets.csv)
 
 ---
 

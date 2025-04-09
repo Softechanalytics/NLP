@@ -112,7 +112,7 @@ Edit
 
 ## 📚 Additional Resources
 
-![python Code](
+![python Code](https://github.com/Softechanalytics/NLP/blob/main/Twitter_US_Airline_Sentiment_Analysis_Project(Anyakwu_Chukwuemeka_Isaac).ipynb)
 
 ![Dataset](
 
